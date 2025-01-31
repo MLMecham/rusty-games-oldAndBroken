@@ -8,3 +8,4 @@ firebase-rs = "2.1.1"
 tokio = {version = "1.37.0", features = ["full"]}
 serde = "1.0.198"
 serde_json = "1.0.116"
+eframe="0.30"

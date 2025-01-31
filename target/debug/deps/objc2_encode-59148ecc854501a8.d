@@ -1,0 +1,10 @@
+/Users/valeriabisso/Desktop/BYUI/cse310/rust-test/target/debug/deps/libobjc2_encode-59148ecc854501a8.rmeta: /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/lib.rs /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding.rs /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding_box.rs /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/helper.rs /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/parse.rs /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/static_str.rs
+
+/Users/valeriabisso/Desktop/BYUI/cse310/rust-test/target/debug/deps/objc2_encode-59148ecc854501a8.d: /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/lib.rs /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding.rs /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding_box.rs /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/helper.rs /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/parse.rs /Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/static_str.rs
+
+/Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/lib.rs:
+/Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding.rs:
+/Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/encoding_box.rs:
+/Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/helper.rs:
+/Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/parse.rs:
+/Users/valeriabisso/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.1.0/src/static_str.rs:
