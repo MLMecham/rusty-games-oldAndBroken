@@ -1,0 +1,10 @@
+C:\Users\mecha\OneDrive\Documents\Learning to program\byui_winter2025\CSE310\rusty-games\rust-games\target\debug\deps\libfirebase_rs-f0a46b0e7934491f.rmeta: C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src/lib.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\constants.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\errors.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\params.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\sse.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\utils.rs
+
+C:\Users\mecha\OneDrive\Documents\Learning to program\byui_winter2025\CSE310\rusty-games\rust-games\target\debug\deps\firebase_rs-f0a46b0e7934491f.d: C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src/lib.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\constants.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\errors.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\params.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\sse.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\utils.rs
+
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src/lib.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\constants.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\errors.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\params.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\sse.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\firebase-rs-2.2.0\src\utils.rs:

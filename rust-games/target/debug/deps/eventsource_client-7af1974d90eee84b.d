@@ -1,0 +1,9 @@
+C:\Users\mecha\OneDrive\Documents\Learning to program\byui_winter2025\CSE310\rusty-games\rust-games\target\debug\deps\libeventsource_client-7af1974d90eee84b.rmeta: C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\lib.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\client.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\config.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\error.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\event_parser.rs
+
+C:\Users\mecha\OneDrive\Documents\Learning to program\byui_winter2025\CSE310\rusty-games\rust-games\target\debug\deps\eventsource_client-7af1974d90eee84b.d: C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\lib.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\client.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\config.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\error.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\event_parser.rs
+
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\lib.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\client.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\config.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\error.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\eventsource-client-0.10.2\src\event_parser.rs:

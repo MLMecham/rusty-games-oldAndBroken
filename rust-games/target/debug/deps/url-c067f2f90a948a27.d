@@ -1,0 +1,11 @@
+C:\Users\mecha\OneDrive\Documents\Learning to program\byui_winter2025\CSE310\rusty-games\rust-games\target\debug\deps\liburl-c067f2f90a948a27.rmeta: C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src/lib.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\host.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\origin.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\parser.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\path_segments.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\slicing.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\quirks.rs
+
+C:\Users\mecha\OneDrive\Documents\Learning to program\byui_winter2025\CSE310\rusty-games\rust-games\target\debug\deps\url-c067f2f90a948a27.d: C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src/lib.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\host.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\origin.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\parser.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\path_segments.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\slicing.rs C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\quirks.rs
+
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src/lib.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\host.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\origin.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\parser.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\path_segments.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\slicing.rs:
+C:\Users\mecha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\quirks.rs:
