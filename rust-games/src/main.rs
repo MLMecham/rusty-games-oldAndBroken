@@ -1,6 +1,7 @@
 //mod hangman;
 use eframe::egui;
 use std::collections::HashSet;
+mod style;
 //use hangman::run_hangman;
 // fn main() {
 //     run_hangman()
@@ -146,6 +147,8 @@ impl MyApp {
 
 impl eframe::App for MyApp {
     fn update(&mut self, ctx: &egui::Context, _frame: &mut eframe::Frame) {
+        let apply_style = style::styles();  //applying styles
+        ctx.set_style(apply_style);
         egui::CentralPanel::default().show(ctx, |ui| {
             match self.current_screen {
                 Screen::Home => {
@@ -182,7 +185,7 @@ impl eframe::App for MyApp {
                                 });
                             }
 
-                            if ui.button("Go Home").clicked() {
+                            if ui.button("🔙").clicked() {
                                 reset_game = true;
                             }
                         });
