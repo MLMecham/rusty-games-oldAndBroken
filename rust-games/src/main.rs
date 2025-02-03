@@ -1,4 +1,4 @@
-mod hangman;
+//mod hangman;
 use eframe::egui;
 use std::collections::HashSet;
 //use hangman::run_hangman;
