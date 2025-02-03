@@ -150,15 +150,20 @@ impl eframe::App for MyApp {
         let apply_style = style::styles();  //applying styles
         ctx.set_style(apply_style);
         egui::CentralPanel::default().show(ctx, |ui| {
+            
             match self.current_screen {
                 Screen::Home => {
-                    ui.with_layout(egui::Layout::top_down(egui::Align::Center), |ui| {
-                        ui.heading("Welcome to Hangman!");
-                        if ui.button("Play").clicked() {
-                            self.game = Some(HangmanGame::new("rust"));
-                            self.current_screen = Screen::Game;
-                        }
+                    let _ = style::homeScreenPanel().show(ui, |ui| { //let _ = to ignore the return value (inner response)
+                        ui.with_layout(egui::Layout::top_down(egui::Align::Center), |ui| {
+                            ui.heading("Welcome to Hangman!");
+                            if ui.button("Play").clicked() {
+                                self.game = Some(HangmanGame::new("rust"));
+                                self.current_screen = Screen::Game;
+                            }
+                        });
+                        
                     });
+                    
                 }
                 Screen::Game => {
                     // Store action results outside of UI closure
