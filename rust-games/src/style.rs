@@ -14,5 +14,6 @@ pub fn homeScreenPanel() -> egui::Frame {
     egui::Frame::none()
         .fill(egui::Color32::from_rgb(53, 96, 90))
         //.stroke(egui::Stroke::new(2.0, egui::Color32::WHITE)) // White border with 2px thickness
-        .inner_margin(20.0) // Padding inside the frame
+        .inner_margin(45.0) // Padding inside the frame
+    
 }

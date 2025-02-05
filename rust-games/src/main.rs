@@ -154,16 +154,19 @@ impl eframe::App for MyApp {
             match self.current_screen {
                 Screen::Home => {
                     let _ = style::homeScreenPanel().show(ui, |ui| { //let _ = to ignore the return value (inner response)
+                        ui.set_max_width(300.0);
                         ui.with_layout(egui::Layout::top_down(egui::Align::Center), |ui| {
                             ui.heading("Welcome to Hangman!");
-                            if ui.button("Play").clicked() {
+                            ui.add_space(15.0);
+                            if ui
+                                .add(egui::Button::new("Play").min_size(egui::vec2(100.0, 30.0)))
+                                .clicked() 
+                                {
                                 self.game = Some(HangmanGame::new("rust"));
                                 self.current_screen = Screen::Game;
-                            }
+                                }                            
                         });
-                        
-                    });
-                    
+                    });                    
                 }
                 Screen::Game => {
                     // Store action results outside of UI closure
