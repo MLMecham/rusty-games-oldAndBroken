@@ -149,24 +149,53 @@ impl eframe::App for MyApp {
     fn update(&mut self, ctx: &egui::Context, _frame: &mut eframe::Frame) {
         let apply_style = style::styles();  //applying styles
         ctx.set_style(apply_style);
+
         egui::CentralPanel::default().show(ctx, |ui| {
             
             match self.current_screen {
+
                 Screen::Home => {
-                    let _ = style::homeScreenPanel().show(ui, |ui| { //let _ = to ignore the return value (inner response)
-                        ui.set_max_width(300.0);
-                        ui.with_layout(egui::Layout::top_down(egui::Align::Center), |ui| {
-                            ui.heading("Welcome to Hangman!");
-                            ui.add_space(15.0);
-                            if ui
-                                .add(egui::Button::new("Play").min_size(egui::vec2(100.0, 30.0)))
-                                .clicked() 
-                                {
-                                self.game = Some(HangmanGame::new("rust"));
-                                self.current_screen = Screen::Game;
-                                }                            
-                        });
-                    });                    
+
+
+                    
+                    ui.add_space(ctx.available_rect().height() * 0.35);
+
+                    let available_width = ctx.available_rect().width();
+                    let panel_width = available_width * 0.30;
+
+                    //ui.add_space(panel_width * 0.05);
+
+               
+                    let response = ui.horizontal(|ui| {
+                        ui.add_space(available_width*0.30);
+                        style::homeScreenPanel().show(ui, |ui| { //let _ = to ignore the return value (inner response)
+                        
+                            ui.set_max_width(panel_width); 
+                        
+                                
+    
+                                ui.vertical_centered( |ui| {
+                                    //ui.add_space(ctx.available_rect().width() * 0.5);
+                         
+                                    ui.heading("Welcome to Hangman!");
+                                    ui.add_space(80.0);
+                         
+                                    if ui
+                                       
+                                        .add(egui::Button::new("Play").min_size(egui::vec2(100.0, 30.0)))
+                                        .clicked() 
+                                        {
+                                        self.game = Some(HangmanGame::new("rust"));
+                                        self.current_screen = Screen::Game;
+                                        }                            
+                                });
+                            
+                            
+                        }); 
+                        
+                    });
+                    Some(response)
+                                       
                 }
                 Screen::Game => {
                     // Store action results outside of UI closure
@@ -213,6 +242,7 @@ impl eframe::App for MyApp {
                         self.current_screen = Screen::Home;
                         self.game = None; 
                     }
+                    None
                 }
             }
         });
